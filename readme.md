@@ -1,9 +1,9 @@
 #E-narudzbenica
 
-<b>#Potrebni softveri</b>
-Xampp - https://www.apachefriends.org/index.html
-Composer - https://getcomposer.org/download/
-Git - https://git-scm.com/downloads
+<b>#Potrebni softveri</b><br>
+Xampp - https://www.apachefriends.org/index.html<br>
+Composer - https://getcomposer.org/download/<br>
+Git - https://git-scm.com/downloads<br>
 Text editor - npr. Visual studio code - https://code.visualstudio.com/download ili notepad++
 
 Koraci za sve (Environment Setup & Laravel Installation): https://www.youtube.com/watch?v=H3uRXvwXz1o&t=530s
