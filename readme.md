@@ -6,7 +6,7 @@ Composer - https://getcomposer.org/download/<br>
 Git - https://git-scm.com/downloads<br>
 Text editor - npr. Visual studio code - https://code.visualstudio.com/download ili notepad++
 
-Koraci za sve (Environment Setup & Laravel Installation): https://www.youtube.com/watch?v=H3uRXvwXz1o&t=530s
+Ukoliko niste nikad koristili te softvere ovo su koraci za sve(Environment Setup & Laravel Installation): https://www.youtube.com/watch?v=H3uRXvwXz1o&t=530s
 
 <b>#Nakon instalacije</b>
 
